@@ -47,3 +47,5 @@ uitkomst = f"""
 {getal1} / {getal2} = {getal1/getal2}
 """
 print(uitkomst)
+
+print("hello")
